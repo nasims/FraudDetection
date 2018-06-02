@@ -6,6 +6,7 @@ The files are as follows:
 - FraudDetection_InferentailStatistics.ipynb:  Code in jupiter-notebook for the inferential statistics study
 - Capstone1_MilestoneReport.pdf: Milestone report
 - Capstone1_Final_Report.pdf: Project's final report
+- Capstone1_Presentation.pdf: Project's presentation
 
 
 
