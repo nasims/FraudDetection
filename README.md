@@ -1,5 +1,5 @@
 # Fraud Detection in Mobile Money Transactions
-This repository contains the files for my first capstone project, Fraud Prediction in Financial Payments.
+This repository contains the files for my capstone project on Fraud Prediction in Mobile Money Transactions.
 
 The files are as follows:
 - FraudDetection.ipynb: Code in jupiter-notebook for the main project
